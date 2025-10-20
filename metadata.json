@@ -1,0 +1,5 @@
+{
+  "name": "Classroom Quiz",
+  "description": "A minimal, distraction-free web quiz app for classroom activities. Teachers can create math question sets, and students answer them one by one.",
+  "requestFramePermissions": []
+}
